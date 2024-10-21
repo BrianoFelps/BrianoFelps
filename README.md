@@ -1,4 +1,4 @@
-## Hail Mary! Brian here👋<img src="https://github.com/user-attachments/assets/fa200e07-d8f6-4191-b291-e6cb34d1820e"/>
+## Hail Mary! Brian here👋<img src="https://github.com/user-attachments/assets/fa200e07-d8f6-4191-b291-e6cb34d1820e" style="height:20px"/>
 
 <div style="display: inline-block">
   <a href="https://github.com/BrianoFelps">
