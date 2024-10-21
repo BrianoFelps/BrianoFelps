@@ -1,6 +1,6 @@
-## Hail Mary! Brian here👋<img src="https://github.com/user-attachments/assets/fa200e07-d8f6-4191-b291-e6cb34d1820e" style="height:20px"/>
+<h1 align="center">Hail Mary! Brian here👋<img src="https://github.com/user-attachments/assets/fa200e07-d8f6-4191-b291-e6cb34d1820e" style="height:20px"/></h1>
 
-<div style="display: inline-block">
+<div style="display: inline-block"  align="center">
   <a href="https://github.com/BrianoFelps">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianofelps&layout=compact" style="width:34%;"/>
     <img src="https://github-readme-stats.vercel.app/api?username=brianofelps&show_icons=true&theme=dark" style="width:45%;"/>
@@ -8,11 +8,11 @@
 </div>
 
 <div style="display: inline-block;">
-  <h2>
+  <h2 align="center">
     Learned languages 
     <img src="https://github.com/user-attachments/assets/a44c6823-68e0-4ce4-9ae6-63d9b4559243" style="height:30px"/>
   </h2>
-  <div style="display:flex; justify-content:space-between;">
+  <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="height: 40px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="height: 35px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="height: 35px"/>
