@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hail Mary! Brian here👋
 
-<!--
-**BrianoFelps/BrianoFelps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline-block">
+  <a href="https://github.com/BrianoFelps">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianofelps&layout=compact" style="width:34%;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=brianofelps&show_icons=true&theme=dark" style="width:45%;"/>
+  </a>
+</div>
+<div style="display: inline-block;">
+  <h2>
+    Learned languages 
+    <img src="https://github.com/user-attachments/assets/a44c6823-68e0-4ce4-9ae6-63d9b4559243" style="height:30px"/>
+  </h2>
+  <div style="display:flex; justify-content:space-between;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="height: 40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="height: 35px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="height: 35px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="height: 40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" style="height: 40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="height: 40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="height: 40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="height: 40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="height: 40px" />
+  </div>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrianoFelps/BrianoFelps/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrianoFelps/BrianoFelps/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BrianoFelps/BrianoFelps/output/github-contribution-grid-snake.svg">
+</picture>
