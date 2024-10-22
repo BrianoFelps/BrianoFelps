@@ -9,7 +9,7 @@
 
 <div style="display: inline-block;">
   <h2 align="center">
-    Learned languages 
+    Knowledge
     <img src="https://github.com/user-attachments/assets/a44c6823-68e0-4ce4-9ae6-63d9b4559243" style="height:30px"/>
   </h2>
   <div align="center">
