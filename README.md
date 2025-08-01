@@ -1,12 +1,4 @@
 <h1 align="center">Salve Maria! Brian here👋<img src="https://github.com/user-attachments/assets/fa200e07-d8f6-4191-b291-e6cb34d1820e" style="height:20px"/></h1>
-
-<div style="display: inline-block"  align="center">
-  <a href="https://github.com/BrianoFelps">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianofelps&layout=compact" style="width:40%;"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=brianofelps&show_icons=true&theme=dark" style="width:52%;"/>
-  </a>
-</div>
-
 <div style="display: inline-block;">
   <h2 align="center">
     Knowledge
